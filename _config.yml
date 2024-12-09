@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+layout: default
+
+baseurl: /speaker-loudness-calibration
+title: Speaker Loudness Calibration (musios.app)
+description: Guide for calibrating speaker loudness using a smartphone
