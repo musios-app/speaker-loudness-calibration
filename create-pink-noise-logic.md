@@ -1,3 +1,9 @@
+---
+layout: default
+title: Create a Pink Noise file using a DAW
+---
+
+
 # Create a Pink Noise file using a DAW
 
 We need a pink noise recording with an RMS energy of -20dB.

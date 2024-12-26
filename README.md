@@ -1,3 +1,10 @@
+---
+layout: default
+title: Speaker Loudness Calibration
+description: Home studio sound depends upon good audio and loudness is critical to the quality. We all like it louder but getting balanced sound is about calibration and control. This project provides the tools and steps to do a decent calibration of loudness from your computer speakers without expensive equipment.
+image: /images/volume11.jpg
+---
+
 # Speaker Loudness Calibration
 
 Home studio sound depends upon good audio and loudness is critical to the quality.  We all like it louder but getting balanced sound is about calibration and control.
@@ -15,12 +22,15 @@ In the last steps I use MacOS scripts to conveniently find and set my system vol
 
 ## Contents
 
-1. [About pink noise](#about-pink-noise)
-1. [Create a pink noise file at -20dB](#pink-noise-file-at--20db)
-1. [Loudness measurement tool](#loudness-measurement-tool)
-1. [Measurement procedure](#measurement-procedure)
-1. [MacOS scripts](#macos-scripts)
-1. Enjoy your calibrated sound!
+- [Speaker Loudness Calibration](#speaker-loudness-calibration)
+  - [Contents](#contents)
+    - [About Pink Noise](#about-pink-noise)
+  - [Pink noise file at -20dB](#pink-noise-file-at--20db)
+  - [Loudness measurement tool](#loudness-measurement-tool)
+  - [Measurement Procedure](#measurement-procedure)
+  - [MacOS Scripts](#macos-scripts)
+  - [My Setup](#my-setup)
+  - [References](#references)
 
 
 ### About Pink Noise

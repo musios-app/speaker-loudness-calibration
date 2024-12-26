@@ -1,3 +1,8 @@
+---
+layout: default
+title: Create a Pink Noise file using Audacity
+---
+
 # Create a Pink Noise file using Audacity
 
 We need a pink noise recording with an RMS energy of -20dB.
