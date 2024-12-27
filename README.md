@@ -3,6 +3,7 @@ layout: default
 title: Speaker Loudness Calibration
 description: Home studio sound depends upon good audio and loudness is critical to the quality. We all like it louder but getting balanced sound is about calibration and control. This project provides the tools and steps to do a decent calibration of loudness from your computer speakers without expensive equipment.
 image: /images/volume11.jpg
+gitrepo: https://github.com/musios-app/speaker-loudness-calibration
 ---
 
 # Speaker Loudness Calibration
