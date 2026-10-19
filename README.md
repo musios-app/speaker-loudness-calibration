@@ -34,6 +34,7 @@ In the last steps I use MacOS scripts to conveniently find and set my system vol
   - [Measurement Procedure](#measurement-procedure)
   - [MacOS Scripts](#macos-scripts)
   - [My Setup](#my-setup)
+  - [License](#license)
   - [References](#references)
 
 
@@ -125,6 +126,11 @@ It's basic but it works
 1. Speakers: [JBL LSR305P MKII 5" Powered Studio Monitors](https://jblpro.com/products/305p-mkii) (Pair)
 1. Stand: about 120cm high with 1cm neoprene for a little isolation
 1. Calibration: [Sonarworks SoundID Reference](https://www.sonarworks.com/soundid-reference) enabled with calibration for the speakers and room
+
+
+## License
+
+[Apache License 2.0](./LICENSE)
 
 
 ## References
