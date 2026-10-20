@@ -60,7 +60,7 @@ Or you can bake your own...
 We need a reasonably accurate measurement of sound pressure level (SPL).
 
 * Borrow or buy a Decibel meter. There are many sites that review and recommendation meters at different price points.
-* Or... Install a [good SPL meter on your smartphone](smartphone-sound-level.md).
+* Or... Install a good SPL meter on your smartphone.
 
 I used [SoundMeter Basic 2018](https://apps.apple.com/au/app/soundmeter-basic-2018/id1457367090) on my iPhone 11 because...
 
