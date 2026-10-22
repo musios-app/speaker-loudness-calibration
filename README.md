@@ -7,6 +7,10 @@ icon: images/volume-knob-icon.svg
 image: /projects/speaker-loudness-calibration/images/og-speaker-loudness-calibration.svg
 gitrepo: https://github.com/musios-app/speaker-loudness-calibration
 tags: home-studio
+date: 2021-04-08
+seo:
+  type: TechArticle
+  date_modified: 2026-10-20
 ---
 
 # Speaker Loudness Calibration
